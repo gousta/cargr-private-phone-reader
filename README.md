@@ -1,4 +1,4 @@
-# pure-node-ocr
+# cargr-private-phone-reader
 A Pure Node.js OCR (Utilizes tesseract and jimp libraries but have ZERO dependencies)
 
 ### Installation
